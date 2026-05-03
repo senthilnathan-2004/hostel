@@ -34,7 +34,7 @@ export default function Hero() {
   }, []);
 
   return (
-    <section className="relative min-h-[90svh] md:min-h-[98svh] flex items-center justify-center overflow-hidden">
+    <section className="relative min-h-[100svh] md:min-h-[100svh] flex items-center justify-center overflow-hidden">
       {/* Background with Professional Gradient Overlay */}
       <div className="absolute inset-0 z-0">
         <Image
